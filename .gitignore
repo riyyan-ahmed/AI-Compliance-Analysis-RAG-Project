@@ -1,0 +1,13 @@
+node_modules/
+dist/
+build/
+.env
+.env.local
+.env.*.local
+backend/uploads/*
+!backend/uploads/.gitkeep
+chroma-data/
+backend/data/
+*.log
+.DS_Store
+coverage/
